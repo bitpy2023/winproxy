@@ -1,0 +1,153 @@
+2025-11-24 12:43:50,159 - ProxyBackend - INFO - Loaded 0 working proxies from cache
+2025-11-24 12:43:50,159 - ProxyBackend - INFO - Loaded 40658 unique proxies from D:/CODE/proxy_win/http.txt
+2025-11-24 12:45:13,278 - ProxyBackend - INFO - Loaded 0 working proxies from cache
+2025-11-24 12:45:13,279 - ProxyBackend - INFO - Loaded 2168 unique proxies from proxies.txt
+2025-11-24 12:46:58,316 - ProxyBackend - INFO - All data cleared
+2025-11-24 13:04:58,620 - ProxyBackend - INFO - Loaded 0 working proxies from cache
+2025-11-24 13:04:58,620 - ProxyBackend - INFO - Loaded 2168 unique proxies from proxies.txt
+2025-11-24 13:05:02,501 - ProxyBackend - INFO - Loaded 0 working proxies from cache
+2025-11-24 13:05:02,501 - ProxyBackend - INFO - Loaded 2168 unique proxies from D:/CODE/proxy_win/proxies.txt
+2025-11-24 13:05:10,603 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:10,910 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:11,509 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:23,391 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:23,639 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:23,917 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:24,194 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:24,483 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:25,021 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:25,297 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:05:25,393 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-11-24 13:06:48,725 - ProxyBackend - INFO - Test stopped by user
+2025-11-24 13:06:58,344 - ProxyBackend - INFO - Loaded 40 working proxies from cache
+2025-11-24 13:06:58,344 - ProxyBackend - INFO - Loaded 73 unique proxies from D:/CODE/proxy_win/working_proxies_20251124_130649.txt
+2025-11-24 13:07:33,882 - ProxyBackend - ERROR - Failed to set proxy: 
+2025-11-24 13:08:08,368 - ProxyBackend - ERROR - Failed to set proxy: 
+2025-11-24 13:08:09,747 - ProxyBackend - ERROR - Failed to set proxy: 
+2025-11-24 13:08:14,573 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task cancelling name='Task-664' coro=<ProxyBackend.run_full_test_async.<locals>.test_with_semaphore() running at d:\CODE\proxy_win\proxy_backend.py:370> wait_for=<Future finished result=['# Working Pr...24 12:43:21\n', '188.40.57.101:80\n', '47.251.87.74:8080\n', '47.238.134.126:999\n', '47.56.110.204:8989\n', '95.173.218.66:8082\n', ...]> cb=[as_completed.<locals>._on_completion() at C:\Users\07\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py:608]>
+2025-11-24 13:08:14,573 - ProxyBackend - ERROR - Error quick saving proxy: no running event loop
+2025-11-24 13:19:26,454 - ProxyBackend - INFO - Loaded 43 working proxies from cache
+2025-11-24 13:19:26,454 - ProxyBackend - INFO - Loaded 2168 unique proxies from proxies.txt
+2025-11-24 13:19:33,963 - ProxyBackend - INFO - Loaded 43 working proxies from cache
+2025-11-24 13:19:33,964 - ProxyBackend - INFO - Loaded 73 unique proxies from D:/CODE/proxy_win/working_proxies_20251124_130649.txt
+2025-11-24 13:19:38,350 - ProxyBackend - ERROR - Failed to set proxy: Unknown error
+2025-11-24 13:19:54,577 - ProxyBackend - ERROR - Failed to set proxy: Unknown error
+2025-11-24 13:20:15,735 - ProxyBackend - ERROR - Failed to set proxy: Unknown error
+2025-11-24 13:22:17,315 - ProxyBackend - INFO - Loaded 45 working proxies from cache
+2025-11-24 13:22:17,315 - ProxyBackend - INFO - Loaded 2168 unique proxies from proxies.txt
+2025-11-24 13:22:21,802 - ProxyBackend - INFO - Loaded 45 working proxies from cache
+2025-11-24 13:22:21,802 - ProxyBackend - INFO - Loaded 2168 unique proxies from D:/CODE/proxy_win/proxies.txt
+2025-11-24 13:22:26,456 - ProxyBackend - INFO - Loaded 45 working proxies from cache
+2025-11-24 13:22:26,456 - ProxyBackend - INFO - Loaded 46 unique proxies from D:/CODE/proxy_win/working_proxies_20251124_130741.txt
+2025-11-24 13:23:00,146 - ProxyBackend - INFO - Executing command: netsh winhttp set proxy 62.87.154.36:80
+2025-11-24 13:23:00,221 - ProxyBackend - INFO - Command return code: 1
+2025-11-24 13:23:00,221 - ProxyBackend - INFO - Command stdout: Error writing proxy settings. (5) Access is denied.
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
+
+
+2025-11-24 13:23:00,222 - ProxyBackend - INFO - Command stderr: 
+2025-11-24 13:23:00,222 - ProxyBackend - ERROR - Failed to set proxy: Error writing proxy settings. (5) Access is denied.
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
+2025-11-24 13:23:06,911 - ProxyBackend - INFO - Executing command: netsh winhttp set proxy 62.87.154.36:80
+2025-11-24 13:23:06,986 - ProxyBackend - INFO - Command return code: 1
+2025-11-24 13:23:06,986 - ProxyBackend - INFO - Command stdout: Error writing proxy settings. (5) Access is denied.
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
+
+
+2025-11-24 13:23:06,986 - ProxyBackend - INFO - Command stderr: 
+2025-11-24 13:23:06,987 - ProxyBackend - ERROR - Failed to set proxy: Error writing proxy settings. (5) Access is denied.
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
